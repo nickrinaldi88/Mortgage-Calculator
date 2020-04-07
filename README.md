@@ -14,7 +14,6 @@ This is a mortgage calculator that calculates monthly mortgage payments based on
 ## Getting Started
 ### Dependencies
 
-Windows 10
 Python
 
 ### Executing Program
